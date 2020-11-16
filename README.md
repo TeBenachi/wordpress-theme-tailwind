@@ -7,6 +7,11 @@ Underscore _s theme + tailwindcss
 ```
 npm init -y
 ```
+
+```
+npm install dir-archiver
+```
+
 ```
 npm install tailwindcss -D
 ```
@@ -131,6 +136,7 @@ module.exports = {
 
 
 ```
+
 
 
 

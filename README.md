@@ -10,7 +10,11 @@ npm init -y
 ```
 npm install tailwindcss -D
 ```
-(3) ./node_modules/.bin/tailwind init   => Create tailwind.config.js file 
+
+Create tailwind.config.js file 
+```
+./node_modules/.bin/tailwind init
+```
 
 ```
 npm install laravel-mix
@@ -18,9 +22,7 @@ npm install laravel-mix
 ```
 mkdir src
 ```
-```
-cd src
-```
+
 ```
 cd src && mkdir css 
 ```

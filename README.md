@@ -57,6 +57,11 @@ Add below to tailwind.css
 @tailwind utilities;
 ```
 
+Navigate to the theme root directory
+```
+cd ..
+```
+
 ```
 touch webpack.mix.js && open webpack.mix.js
 ```

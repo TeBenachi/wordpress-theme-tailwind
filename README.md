@@ -26,6 +26,11 @@ mkdir src
 ```
 cd src && mkdir css 
 ```
+
+```
+cd ..
+```
+
 ```
 cp style.css ./src/css/
 ```
